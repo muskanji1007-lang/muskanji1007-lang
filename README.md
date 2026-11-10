@@ -1,18 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B0E14,1E1B4B,0B0E14&height=220&section=header&text=Muskan%20Gupta&fontSize=42&fontColor=38BDF8&fontAlignY=38&desc=B.Tech%20CSE%20(Data%20Science)%20Student%20•%20Frontend%20Developer&descFontSize=18&descAlignY=62&descColor=E0E7FF&stroke=6366F1&strokeWidth=1" width="100%" alt="Muskan Gupta Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B0E14,1E1B4B,0B0E14&height=190&section=header&text=Muskan%20Gupta&fontSize=40&fontColor=38BDF8&fontAlignY=38&desc=B.Tech%20CSE%20(Data%20Science)%20Student%20•%20Frontend%20Developer&descFontSize=17&descAlignY=62&descColor=E0E7FF&stroke=6366F1&strokeWidth=1" width="100%" alt="Muskan Gupta Banner" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hey%2C+I'm+Muskan+Gupta!+%F0%9F%91%8B;B.Tech+CSE+(Data+Science)+Student;Frontend+Developer+%26+UI+Enthusiast;Building+with+React%2C+Tailwind+%26+JavaScript;Turning+Curiosity+into+Clean+Code+%E2%9C%A8)](https://github.com/muskanji1007-lang)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hey%2C+I'm+Muskan+Gupta!+%F0%9F%91%8B;B.Tech+CSE+(Data+Science)+Student;Frontend+Developer+%26+UI+Enthusiast;Building+with+React%2C+Tailwind+%26+JavaScript;Turning+Curiosity+into+Clean+Code+%E2%9C%A8)](https://github.com/muskanji1007-lang)
-
-<br/><br/>
-
 <a href="https://muskan-portfolio-ipvv.vercel.app/" target="_blank">
-  <img src="./lanyard.svg?v=3" width="165" alt="Muskan Gupta Developer ID Badge" />
+  <img src="./lanyard.svg?v=4" width="150" alt="Muskan Gupta Developer ID Badge" />
 </a>
 
-<br/><br/>
+<br/>
 
 <p align="center">
   <a href="https://github.com/muskanji1007-lang">
