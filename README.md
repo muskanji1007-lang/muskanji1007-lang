@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Muskan Gupta Banner">
+<img src="./banner.svg?v=2" width="100%" alt="Muskan Gupta Banner">
 
 <br/><br/>
 
-<img src="./lanyard.svg" width="160" align="left" alt="Muskan Gupta ID Badge">
+<img src="./lanyard.svg?v=2" width="160" align="left" alt="Muskan Gupta ID Badge">
 
 <br clear="left">
 
@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<img src="./trophies.svg" width="100%" alt="Muskan Gupta Trophies">
+<img src="./trophies.svg?v=2" width="100%" alt="Muskan Gupta Trophies">
 
 </div>
 
