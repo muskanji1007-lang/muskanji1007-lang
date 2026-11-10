@@ -6,12 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hey%2C+I'm+Muskan+Gupta!+%F0%9F%91%8B;B.Tech+CSE+(Data+Science)+Student;Frontend+Developer+%26+UI+Enthusiast;Building+with+React%2C+Tailwind+%26+JavaScript;Turning+Curiosity+into+Clean+Code+%E2%9C%A8)](https://github.com/muskanji1007-lang)
 
-<br/>
-
-<a href="https://muskan-portfolio-ipvv.vercel.app/" target="_blank">
-  <img src="./lanyard.svg?v=electric_cyan_v1" width="150" alt="Muskan Gupta Developer ID Badge" />
-</a>
-
 <br/><br/>
 
 <p align="center">
