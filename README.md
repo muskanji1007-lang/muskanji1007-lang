@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://muskan-portfolio-ipvv.vercel.app/" target="_blank">
-  <img src="./lanyard.svg?v=6" width="150" alt="Muskan Gupta Developer ID Badge" />
+  <img src="./lanyard.svg?v=7" width="150" alt="Muskan Gupta Developer ID Badge" />
 </a>
 
 <br/>
