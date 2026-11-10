@@ -1,22 +1,32 @@
 <div align="center">
 
-<img src="./banner.svg?v=2" width="100%" alt="Muskan Gupta Banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B0E14,1E1B4B,0B0E14&height=220&section=header&text=Muskan%20Gupta&fontSize=42&fontColor=38BDF8&fontAlignY=38&desc=B.Tech%20CSE%20(Data%20Science)%20Student%20•%20Frontend%20Developer&descFontSize=18&descAlignY=62&descColor=E0E7FF&stroke=6366F1&strokeWidth=1" width="100%" alt="Muskan Gupta Banner" />
 
-<br/><br/>
+<br/>
 
-<img src="./lanyard.svg?v=2" width="160" align="left" alt="Muskan Gupta ID Badge">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hey%2C+I'm+Muskan+Gupta!+%F0%9F%91%8B;B.Tech+CSE+(Data+Science)+Student;Frontend+Developer+%26+UI+Enthusiast;Building+with+React%2C+Tailwind+%26+JavaScript;Turning+Curiosity+into+Clean+Code+%E2%9C%A8)](https://github.com/muskanji1007-lang)
 
-<br clear="left">
+<br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/muskanji1007-lang?label=Follow&style=for-the-badge&color=6366F1&labelColor=0F172A)](https://github.com/muskanji1007-lang)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A)](https://www.linkedin.com/in/muskan-gupta-305525383)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-38BDF8?style=for-the-badge&logo=vercel&logoColor=0B0E14&labelColor=0F172A)](https://muskan-portfolio-ipvv.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-F43F5E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A)](mailto:muskanji1007@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=muskanji1007-lang&style=for-the-badge&color=8B5CF6&labelColor=0F172A)
-
-<br/><br/>
-
-<img src="./trophies.svg?v=2" width="100%" alt="Muskan Gupta Trophies">
+<p align="center">
+  <a href="https://github.com/muskanji1007-lang">
+    <img src="https://img.shields.io/github/followers/muskanji1007-lang?label=Follow&style=for-the-badge&color=6366F1&labelColor=0F172A" alt="Follow" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/muskan-gupta-305525383" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://muskan-portfolio-ipvv.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-38BDF8?style=for-the-badge&logo=vercel&logoColor=0B0E14&labelColor=0F172A" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:muskanji1007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hi-F43F5E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" alt="Email" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=muskanji1007-lang&style=for-the-badge&color=8B5CF6&labelColor=0F172A&label=Profile+Views" alt="Profile Views" />
+</p>
 
 </div>
 
@@ -26,10 +36,10 @@
 
 - 🎓 **B.Tech CSE (Data Science)** @ **AKGEC, Ghaziabad (AKTU)** (2025–2029)
 - 🚀 Built and deployed **5+ responsive web applications** with clean UI/UX and zero-downtime hosting on **Vercel**
-- 💻 Strong engineering focus on **React.js, JavaScript (ES6+), Tailwind CSS & Component Architecture**
-- 📊 Actively exploring **Data Science Foundations, Python Data Analytics & Machine Learning**
-- 🧠 Strengthening Algorithmic Problem Solving & Data Structures in **C++**
-- 📩 **muskanji1007@gmail.com** | Open to **Frontend & Web Development Opportunities**
+- 💻 Strong engineering focus on **React.js, JavaScript (ES6+), Tailwind CSS, HTML5 & CSS3**
+- 🧠 Actively practicing Algorithmic Problem Solving & Data Structures in **C++**
+- 🛠️ Passionate about creating responsive, mobile-first, and user-friendly web interfaces
+- 📩 **muskanji1007@gmail.com** | Open to **Frontend & Web Development Collaborations**
 
 ---
 
@@ -71,12 +81,12 @@
 
 ---
 
-### 🏆 Open Source & Academic Honors
+### 🏆 Academic Highlights & Focus
 
 - 🎓 **Undergraduate Scholar**: Pursuing **B.Tech CSE (Data Science)** at **Ajay Kumar Garg Engineering College (AKGEC)** (2025–2029).
 - 💻 **Frontend Engineering**: Built and deployed 5+ modern web applications live on **Vercel** with clean React & Tailwind architecture.
-- 🌐 **Open Source & Hackathons**: Actively building student-focused developer tools, contributing to open web initiatives, and collaborating on college tech platforms.
-- 📊 **Data Science & AI**: Exploring foundational machine learning, predictive analytics, and algorithmic problem solving in **C++**.
+- 🌐 **Hands-on Building**: Actively developing student-focused web tools and participating in college tech initiatives.
+- 🧠 **Problem Solving**: Strengthening core data structures and algorithmic fundamentals in **C++**.
 
 ---
 
@@ -99,6 +109,10 @@
 
 <br/><br/>
 
-<sub>Built with ✨ by Muskan Gupta &bull; last redesigned 2026</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B0E14,1E1B4B,0B0E14&height=100&section=footer&stroke=6366F1&strokeWidth=1" width="100%" alt="Footer Banner" />
+
+<p align="center">
+  <sub>Built with ✨ by Muskan Gupta &bull; 2026</sub>
+</p>
 
 </div>
