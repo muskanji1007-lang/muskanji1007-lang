@@ -18,19 +18,44 @@
 
 <img src="./trophies.svg" width="100%" alt="Muskan Gupta Trophies">
 
-<br/><br/>
-
-![React](https://img.shields.io/badge/-React-0F172A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
-![C++](https://img.shields.io/badge/-C%2B%2B-0F172A?style=flat-square&logo=c%2B%2B&logoColor=00599C)
-![HTML5](https://img.shields.io/badge/-HTML5-0F172A?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-0F172A?style=flat-square&logo=css3&logoColor=1572B6)
-![Git](https://img.shields.io/badge/-Git-0F172A?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-0F172A?style=flat-square&logo=github&logoColor=FFFFFF)
-![Vite](https://img.shields.io/badge/-Vite-0F172A?style=flat-square&logo=vite&logoColor=BD34FE)
-
 </div>
+
+---
+
+### 👩‍💻 About Me
+
+- 🎓 **B.Tech CSE (Data Science)** @ **AKGEC, Ghaziabad (AKTU)** (2025–2029)
+- 🚀 Built and deployed **5+ responsive web applications** with clean UI/UX and zero-downtime hosting on **Vercel**
+- 💻 Strong engineering focus on **React.js, JavaScript (ES6+), Tailwind CSS & Component Architecture**
+- 📊 Actively exploring **Data Science Foundations, Python Data Analytics & Machine Learning**
+- 🧠 Strengthening Algorithmic Problem Solving & Data Structures in **C++**
+- 📩 **muskanji1007@gmail.com** | Open to **Frontend & Web Development Opportunities**
+
+---
+
+### 🛠️ Tech Stack
+
+<p>
+  <strong>Frontend:</strong>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-React-0F172A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/-HTML5-0F172A?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-0F172A?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
+</p>
+
+<p>
+  <strong>Languages:</strong>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-C%2B%2B-0F172A?style=flat-square&logo=c%2B%2B&logoColor=00599C" alt="C++" />
+</p>
+
+<p>
+  <strong>DevOps & Tools:</strong>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Git-0F172A?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-0F172A?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-Vite-0F172A?style=flat-square&logo=vite&logoColor=BD34FE" alt="Vite" />
+  <img src="https://img.shields.io/badge/-Vercel-0F172A?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
 
 ---
 
