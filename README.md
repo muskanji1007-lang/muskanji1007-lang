@@ -16,10 +16,6 @@
 
 <br/><br/>
 
-<img src="./projects.svg" width="100%" alt="Muskan Gupta Projects">
-
-<br/><br/>
-
 <img src="./trophies.svg" width="100%" alt="Muskan Gupta Trophies">
 
 <br/><br/>
@@ -34,7 +30,32 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0F172A?style=flat-square&logo=github&logoColor=FFFFFF)
 ![Vite](https://img.shields.io/badge/-Vite-0F172A?style=flat-square&logo=vite&logoColor=BD34FE)
 
-<br/><br/>
+</div>
+
+---
+
+### 🚀 Flagship Projects
+
+| Project | Tech Stack | Repository & Demo |
+| :--- | :--- | :--- |
+| **Opportunity Hub** – Student Career & Hackathon Platform | `React`, `JavaScript`, `Tailwind CSS`, `REST API` | [Code](https://github.com/muskanji1007-lang/Event-Management-App) • [Live Demo](https://event-management-frontend-three-kappa.vercel.app/) |
+| **SecretSpace** – Bug Bounty & Vulnerability Research Portal | `JavaScript`, `HTML5`, `CSS3`, `Web Security UX` | [Code](https://github.com/muskanji1007-lang/SecretSpace-BugBounty-) • [Live Demo](https://secret-space-bug-bounty.vercel.app) |
+| **Weather Website** – Meteorological Forecasting Web App | `HTML5`, `CSS3`, `JavaScript`, `Weather API` | [Code](https://github.com/muskanji1007-lang/weather-website) • [Live Demo](https://weather-website-one-theta.vercel.app) |
+| **Developer Portfolio** – Interactive Personal Showcase | `React`, `Tailwind CSS`, `JavaScript`, `Vite` | [Code](https://github.com/muskanji1007-lang/muskan-portfolio) • [Live Demo](https://muskan-portfolio-ipvv.vercel.app/) |
+| **Nimbus 3.0** – High-Conversion Event Registration System | `HTML5`, `CSS3`, `JavaScript`, `Responsive UX` | [Code](https://github.com/muskanji1007-lang/task-1) • [Live Demo](https://task-1-snowy-one.vercel.app/) |
+
+---
+
+### 🏆 Open Source & Academic Honors
+
+- 🎓 **Undergraduate Scholar**: Pursuing **B.Tech CSE (Data Science)** at **Ajay Kumar Garg Engineering College (AKGEC)** (2025–2029).
+- 💻 **Frontend Engineering**: Built and deployed 5+ modern web applications live on **Vercel** with clean React & Tailwind architecture.
+- 🌐 **Open Source & Hackathons**: Actively building student-focused developer tools, contributing to open web initiatives, and collaborating on college tech platforms.
+- 📊 **Data Science & AI**: Exploring foundational machine learning, predictive analytics, and algorithmic problem solving in **C++**.
+
+---
+
+<div align="center">
 
 <table border="0">
   <tr>
