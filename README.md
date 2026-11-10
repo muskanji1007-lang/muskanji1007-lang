@@ -1,37 +1,37 @@
 <div align="center">
 
-<img src="./banner.png?v=2" width="100%" alt="Muskan Gupta Banner" />
+<img src="./banner.png?v=3" width="100%" alt="Muskan Gupta Banner" />
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=D6AA82&center=true&vCenter=true&width=550&lines=Hey%2C+I'm+Muskan+Gupta!+%F0%9F%91%8B;B.Tech+CSE+(Data+Science)+Student;Frontend+Developer+%26+UI+Enthusiast;Building+with+React%2C+Tailwind+%26+JavaScript;Turning+Curiosity+into+Clean+Code+%E2%9C%A8)](https://github.com/muskanji1007-lang)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hey%2C+I'm+Muskan+Gupta!+%F0%9F%91%8B;B.Tech+CSE+(Data+Science)+Student;Frontend+Developer+%26+UI+Enthusiast;Building+with+React%2C+Tailwind+%26+JavaScript;Turning+Curiosity+into+Clean+Code+%E2%9C%A8)](https://github.com/muskanji1007-lang)
 
 <br/>
 
 <a href="https://muskan-portfolio-ipvv.vercel.app/" target="_blank">
-  <img src="./lanyard.svg?v=mocha_2" width="150" alt="Muskan Gupta Developer ID Badge" />
+  <img src="./lanyard.svg?v=cyan_1" width="150" alt="Muskan Gupta Developer ID Badge" />
 </a>
 
 <br/><br/>
 
 <p align="center">
   <a href="https://github.com/muskanji1007-lang">
-    <img src="https://img.shields.io/github/followers/muskanji1007-lang?label=Follow&style=for-the-badge&color=D6AA82&labelColor=75523E&logoColor=202124" alt="Follow" />
+    <img src="https://img.shields.io/github/followers/muskanji1007-lang?label=Follow&style=for-the-badge&color=1F6FEB&labelColor=161B22&logoColor=white" alt="Follow" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/muskan-gupta-305525383" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-B88A69?style=for-the-badge&logo=linkedin&logoColor=202124&labelColor=75523E" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://muskan-portfolio-ipvv.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-F5E9DC?style=for-the-badge&logo=vercel&logoColor=202124&labelColor=75523E" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-00D2FF?style=for-the-badge&logo=vercel&logoColor=0D1117&labelColor=0D1117" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="mailto:muskanji1007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hi-D6AA82?style=for-the-badge&logo=gmail&logoColor=202124&labelColor=75523E" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=muskanji1007-lang&style=for-the-badge&color=B88A69&labelColor=75523E&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=muskanji1007-lang&style=for-the-badge&color=1F6FEB&labelColor=0D1117&label=Profile+Views" alt="Profile Views" />
 </p>
 
 </div>
@@ -51,26 +51,29 @@
 
 ### 🛠️ Tech Stack
 
+#### 💻 Programming Languages
 <p>
-  <strong>Frontend:</strong>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-React-75523E?style=flat-square&logo=react&logoColor=D6AA82" alt="React" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-75523E?style=flat-square&logo=tailwindcss&logoColor=D6AA82" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/-HTML5-75523E?style=flat-square&logo=html5&logoColor=F5E9DC" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-75523E?style=flat-square&logo=css3&logoColor=F5E9DC" alt="CSS3" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
+#### 🌐 Frontend Development
 <p>
-  <strong>Languages:</strong>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-JavaScript-75523E?style=flat-square&logo=javascript&logoColor=D6AA82" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-C%2B%2B-75523E?style=flat-square&logo=c%2B%2B&logoColor=F5E9DC" alt="C++" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=FFD62E" alt="Vite" />
 </p>
 
+#### 🔧 Tools & Platforms
 <p>
-  <strong>DevOps & Tools:</strong>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Git-75523E?style=flat-square&logo=git&logoColor=D6AA82" alt="Git" />
-  <img src="https://img.shields.io/badge/-GitHub-75523E?style=flat-square&logo=github&logoColor=F5E9DC" alt="GitHub" />
-  <img src="https://img.shields.io/badge/-Vite-75523E?style=flat-square&logo=vite&logoColor=D6AA82" alt="Vite" />
-  <img src="https://img.shields.io/badge/-Vercel-75523E?style=flat-square&logo=vercel&logoColor=F5E9DC" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
 ---
@@ -101,24 +104,24 @@
 <table border="0">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=muskanji1007-lang&show_icons=true&bg_color=202124&title_color=D6AA82&text_color=F5E9DC&icon_color=B88A69&border_color=75523E&border_radius=12" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=muskanji1007-lang&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=38BDF8&border_color=30363D&border_radius=12" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=muskanji1007-lang&layout=compact&bg_color=202124&title_color=D6AA82&text_color=F5E9DC&border_color=75523E&border_radius=12" alt="Top Languages" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=muskanji1007-lang&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&border_radius=12" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=muskanji1007-lang&theme=dark&background=202124&border=75523E&stroke=D6AA82&ring=D6AA82&fire=B88A69&currStreakNum=F5E9DC&sideNums=D0C1B3&sideLabels=B88A69&dates=D0C1B3&border_radius=12" alt="Contribution Streak" />
+<img src="https://streak-stats.demolab.com/?user=muskanji1007-lang&theme=dark&background=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakNum=58A6FF&sideNums=C9D1D9&sideLabels=58A6FF&dates=8B949E&border_radius=12" alt="Contribution Streak" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=202124,75523E,202124&height=100&section=footer&stroke=D6AA82&strokeWidth=1" width="100%" alt="Footer Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,161B22,0D1117&height=100&section=footer&stroke=58A6FF&strokeWidth=1" width="100%" alt="Footer Banner" />
 
 <p align="center">
-  <sub>Built with 🤎 by Muskan Gupta &bull; 2026</sub>
+  <sub>Built with ⚡ by Muskan Gupta &bull; 2026</sub>
 </p>
 
 </div>
