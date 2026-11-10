@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Muskan Gupta Banner" />
+<img src="./banner.png?v=2" width="100%" alt="Muskan Gupta Banner" />
 
 <br/><br/>
 
@@ -9,10 +9,10 @@
 <br/>
 
 <a href="https://muskan-portfolio-ipvv.vercel.app/" target="_blank">
-  <img src="./lanyard.svg?v=mocha_1" width="150" alt="Muskan Gupta Developer ID Badge" />
+  <img src="./lanyard.svg?v=mocha_2" width="150" alt="Muskan Gupta Developer ID Badge" />
 </a>
 
-<br/>
+<br/><br/>
 
 <p align="center">
   <a href="https://github.com/muskanji1007-lang">
