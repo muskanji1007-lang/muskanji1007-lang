@@ -98,17 +98,17 @@
 <table border="0">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=muskanji1007-lang&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=38BDF8&border_color=30363D&border_radius=12" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=muskanji1007-lang&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=38BDF8&border_color=30363D&border_radius=12&cache_seconds=1800" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=muskanji1007-lang&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&border_radius=12" alt="Top Languages" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=muskanji1007-lang&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&border_radius=12&cache_seconds=1800" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=muskanji1007-lang&theme=dark&background=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakNum=58A6FF&sideNums=C9D1D9&sideLabels=58A6FF&dates=8B949E&border_radius=12" alt="Contribution Streak" />
+<img src="https://streak-stats.demolab.com/?user=muskanji1007-lang&theme=dark&background=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakNum=58A6FF&sideNums=C9D1D9&sideLabels=58A6FF&dates=8B949E&border_radius=12&cache_seconds=1800" alt="Contribution Streak" />
 
 <br/><br/>
 
