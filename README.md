@@ -108,7 +108,7 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=muskanji1007-lang&theme=dark&background=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakNum=58A6FF&sideNums=C9D1D9&sideLabels=58A6FF&dates=8B949E&border_radius=12&cache_seconds=1800" alt="Contribution Streak" />
+<img src="https://readme-streak-stats.vercel.app/?user=muskanji1007-lang&theme=dark&background=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakNum=58A6FF&sideNums=C9D1D9&sideLabels=58A6FF&dates=8B949E&border_radius=12" alt="Contribution Streak" />
 
 <br/><br/>
 
