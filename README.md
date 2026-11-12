@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png?v=3" width="100%" alt="Muskan Gupta Banner" />
+<img src="./banner.png?v=forest_green_v1" width="100%" alt="Muskan Gupta Banner" />
 
 <br/><br/>
 
